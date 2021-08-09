@@ -191,6 +191,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 Dedy Styawan - [dedy.styawan](https://twitter.com/dedystyawan) - dedy.styawan@gmail.com
+Shandy Siswandi - [shandysiswandi](https://github.com/shandysiswandi) - shandysiswandi@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
